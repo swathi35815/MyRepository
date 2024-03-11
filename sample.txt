@@ -7,3 +7,7 @@ created branch2
 
 changes by atul
 for merge conflict
+new changes by swathi
+1
+2
+3
